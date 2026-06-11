@@ -1,0 +1,19 @@
+{
+  "name": "manoxco-pi1",
+  "version": "1.0.0",
+  "description": "> Momentum is an AI-native European consultancy that transforms raw > operational data into decisions that prevent crises. > This repository is our PI-1 delivery for the ManOxCo Oxygen Reliability > Transformation Program.",
+  "main": "build_deck.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
